@@ -759,7 +759,7 @@ section.lazy-placeholder:after {
 .cid-rNpd4pboM0 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #57da50;
 }
 .cid-rNpd4pboM0 .mbr-section-subtitle {
   color: #767676;
@@ -772,6 +772,17 @@ section.lazy-placeholder:after {
 .cid-rNumldg0o3 .mbr-text,
 .cid-rNumldg0o3 blockquote {
   color: #767676;
+}
+.cid-rRog7apBMQ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ff3366;
+}
+.cid-rRog7apBMQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rRog7apBMQ .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rNpc1LylUp {
   padding-top: 90px;
@@ -786,7 +797,7 @@ section.lazy-placeholder:after {
 }
 .cid-rNpcTFwjkA {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-rNpcTFwjkA .card-box {
@@ -823,6 +834,69 @@ section.lazy-placeholder:after {
 .cid-rNpcTFwjkA .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-rRoepcc9Ns {
+  padding-top: 15px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rRoepcc9Ns .card-box {
+  padding: 0 2rem;
+}
+.cid-rRoepcc9Ns .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rRoepcc9Ns .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rRoepcc9Ns h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rRoepcc9Ns p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rRoepcc9Ns .mbr-text {
+  color: #767676;
+}
+.cid-rRoepcc9Ns .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rRoepcc9Ns .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rRog9M0TbY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f7ed4a;
+}
+.cid-rRog9M0TbY .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rRog9M0TbY .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rRokZHrrFe {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rRokZHrrFe .mbr-iconfont-social {
+  font-size: 32px;
+  color: #149dcc;
+}
+.cid-rRokZHrrFe .social-list a:focus {
+  text-decoration: none;
 }
 .cid-rNpfuq6eAX {
   padding-top: 90px;
